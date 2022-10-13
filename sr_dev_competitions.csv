@@ -1,0 +1,15 @@
+comp_id,name,team_type,scope,competition_format,country
+569,"Copa del Rey",club,domestic,cup,Spain
+8,"UEFA Champions League",club,international,cup,NULL
+529,"Coppa Italia",club,domestic,cup,Italy
+11,"Serie A",club,domestic,league,Italy
+32,"Primeira Liga",club,domestic,league,Portugal
+13,"Ligue 1",club,domestic,league,France
+514,"FA Cup",club,domestic,cup,England
+676,"European Championship",natl_team,international,cup,NULL
+9,"Premier League",club,domestic,league,England
+19,"UEFA Europa League",club,international,cup,NULL
+685,"Copa America",natl_team,international,cup,NULL
+1,"World Cup",natl_team,international,cup,NULL
+12,"La Liga",club,domestic,league,Spain
+518,"Coupe de France",club,domestic,cup,France
